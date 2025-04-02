@@ -1,0 +1,7 @@
+create module 'first'
+
+$ go mod init first
+
+main.go file
+
+$ go run main.go
